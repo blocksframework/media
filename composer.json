@@ -1,0 +1,26 @@
+{
+    "name": "blocksframework/media",
+    "description": "Images and videos processing features of the Blocks PHP framework",
+    "license": "MIT",
+    "keywords": [
+        "blocks",
+        "PHP framework",
+        "media"
+    ],
+    "require": {
+        "php": ">=8.2",
+        "beberlei/assert": "^3.3",
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blocks\\Media\\":"src/class"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen Stephenson",
+            "email": "stephenson.inbox@gmail.com"
+        }
+    ]
+}
