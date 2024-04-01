@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Blocks\\Media\\":"src/class"
+            "Blocks\\Media\\": "src/class"
         }
     },
     "authors": [
